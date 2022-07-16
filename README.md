@@ -1,6 +1,6 @@
 # WEB API MADE WITH C# IN ASP.NET
 
-It has been made to Create, Remove, Update and Delete ToDo Items
+It has been built to Create, Remove, Update and Delete ToDo Items
 
 Back-end API made with C#<br>
 API Endpoints:<br>
